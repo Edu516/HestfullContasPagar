@@ -1,0 +1,14 @@
+/home/eduardo/Documentos/HestfullContas/Servidor/bin/Debug/net8.0/Servidor
+/home/eduardo/Documentos/HestfullContas/Servidor/bin/Debug/net8.0/Servidor.deps.json
+/home/eduardo/Documentos/HestfullContas/Servidor/bin/Debug/net8.0/Servidor.runtimeconfig.json
+/home/eduardo/Documentos/HestfullContas/Servidor/bin/Debug/net8.0/Servidor.dll
+/home/eduardo/Documentos/HestfullContas/Servidor/bin/Debug/net8.0/Servidor.pdb
+/home/eduardo/Documentos/HestfullContas/Servidor/obj/Debug/net8.0/Servidor.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/Documentos/HestfullContas/Servidor/obj/Debug/net8.0/Servidor.AssemblyInfoInputs.cache
+/home/eduardo/Documentos/HestfullContas/Servidor/obj/Debug/net8.0/Servidor.AssemblyInfo.cs
+/home/eduardo/Documentos/HestfullContas/Servidor/obj/Debug/net8.0/Servidor.csproj.CoreCompileInputs.cache
+/home/eduardo/Documentos/HestfullContas/Servidor/obj/Debug/net8.0/Servidor.dll
+/home/eduardo/Documentos/HestfullContas/Servidor/obj/Debug/net8.0/refint/Servidor.dll
+/home/eduardo/Documentos/HestfullContas/Servidor/obj/Debug/net8.0/Servidor.pdb
+/home/eduardo/Documentos/HestfullContas/Servidor/obj/Debug/net8.0/Servidor.genruntimeconfig.cache
+/home/eduardo/Documentos/HestfullContas/Servidor/obj/Debug/net8.0/ref/Servidor.dll

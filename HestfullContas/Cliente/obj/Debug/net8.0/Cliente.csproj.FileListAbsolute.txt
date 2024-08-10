@@ -1,0 +1,14 @@
+/home/eduardo/Documentos/HestfullContas/Cliente/bin/Debug/net8.0/Cliente
+/home/eduardo/Documentos/HestfullContas/Cliente/bin/Debug/net8.0/Cliente.deps.json
+/home/eduardo/Documentos/HestfullContas/Cliente/bin/Debug/net8.0/Cliente.runtimeconfig.json
+/home/eduardo/Documentos/HestfullContas/Cliente/bin/Debug/net8.0/Cliente.dll
+/home/eduardo/Documentos/HestfullContas/Cliente/bin/Debug/net8.0/Cliente.pdb
+/home/eduardo/Documentos/HestfullContas/Cliente/obj/Debug/net8.0/Cliente.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/Documentos/HestfullContas/Cliente/obj/Debug/net8.0/Cliente.AssemblyInfoInputs.cache
+/home/eduardo/Documentos/HestfullContas/Cliente/obj/Debug/net8.0/Cliente.AssemblyInfo.cs
+/home/eduardo/Documentos/HestfullContas/Cliente/obj/Debug/net8.0/Cliente.csproj.CoreCompileInputs.cache
+/home/eduardo/Documentos/HestfullContas/Cliente/obj/Debug/net8.0/Cliente.dll
+/home/eduardo/Documentos/HestfullContas/Cliente/obj/Debug/net8.0/refint/Cliente.dll
+/home/eduardo/Documentos/HestfullContas/Cliente/obj/Debug/net8.0/Cliente.pdb
+/home/eduardo/Documentos/HestfullContas/Cliente/obj/Debug/net8.0/Cliente.genruntimeconfig.cache
+/home/eduardo/Documentos/HestfullContas/Cliente/obj/Debug/net8.0/ref/Cliente.dll
